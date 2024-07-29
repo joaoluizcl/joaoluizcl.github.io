@@ -1,5 +1,5 @@
 +++
-title = 'Sobre Digital Garden e minhas primeiras sementes'
+title = 'Sobre Digital Gardens e minhas primeiras sementes'
 date = 2024-07-26T22:26:41-03:00
 draft = false
 tags = ["DigitalGarden", "Decrescimento"]

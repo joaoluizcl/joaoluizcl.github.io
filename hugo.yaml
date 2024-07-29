@@ -32,7 +32,7 @@ params:
     apple_touch_icon: "/apple-touch-icon.png"
   homeInfoParams:
     Title: Meu portfólio e quintal digital
-    Content: "Olá, venha arrastando uma cadeira. Sou um Arquiteto e Urbanista paraibano, interessado no colapso da modernidade, Jackson do Pandeiro, rádio, design, modelagem paramétrica, gafanhotos e rinocerontes, caranguejos, no campo ampliado da arquitetura, na burrice orgânica, e todos os avanços da jardinagem na expansão da consciência. Aqui você pode me accompanhar."
+    Content: "Olá, venha arrastando uma cadeira. Sou um Arquiteto e Urbanista paraibano, interessado no colapso da modernidade, Jackson do Pandeiro, rádio, design, modelagem paramétrica, gafanhotos e rinocerontes, caranguejos, no campo ampliado da arquitetura, na burrice orgânica, e todos os avanços da jardinagem na expansão da consciência. Aqui você pode me acompanhar."
   socialIcons:
     - name: instagram
       title: Instagram
