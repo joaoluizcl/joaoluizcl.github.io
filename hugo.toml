@@ -1,0 +1,74 @@
+encoding: utf-8
+baseURL: https://joaoluizcl.github.io/
+languageCode: pt-br
+title: João Luiz Carolino
+theme: ["PaperMod"]
+
+menu:
+  main:
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Busca
+      url: /busca/
+      weight: 30
+    - identifier: archives
+      name: Arquivo
+      url: /arquivo/
+      weight: 10
+    - identifier: portfolio
+      name: Portfolio
+      url: /portfolio/
+      weight: 40
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+  homeInfoParams:
+    Title: Meu portfólio e quintal digital
+    Content: "Olá, venha arrastando uma cadeira. Sou um Arquiteto e Urbanista paraibano, interessado no colapso da modernidade, Jackson do Pandeiro, rádio, design, modelagem paramétrica, gafanhotos e rinocerontes, caranguejos, no campo ampliado da arquitetura, na burrice orgânica, e todos os avanços da jardinagem na expansão da consciência. Aqui você pode me accompanhar."
+  socialIcons:
+    - name: instagram
+      title: Instagram
+      url: "https://instagram.com/joaoluizcl"
+    - name: linkedin
+      title: LinkedIn
+      url: "https://www.linkedin.com/in/joão-luiz-carolino/"
+    - name: email
+      title: Email
+      url: "mailto:joaoluizcl@gmail.com"
+  label:
+    icon: "/favicon-32x32.png"
+    iconHeight: 26
+
+  description: "Um jardim digital e portfólio de João Luiz Carolino"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: "João Luiz Carolino"
+  DateFormat: "2 January, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: true
+
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+
+
