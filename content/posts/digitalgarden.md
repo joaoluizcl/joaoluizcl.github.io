@@ -17,3 +17,9 @@ E se nossas notas desse grandes cadernos virtuais fossem públicas? E se esse pr
 
 #### O que é o digital garden?
 A [Maggie Appleton](https://maggieappleton.com/garden-history) define bem o que é e a história do termo. Em citação livre, um jardim digital é exploratório, não é rígido ou muito performático como um site pessoal. Suas notas não são necessariamente finalizadas, perfeitas ou organizadas apenas por datas, mas crescem, são cultivadas, se ramificam em outras notas, se atualizam. É uma ferramenta de aprendizado público, como no sentido original da internet. É uma maneira de ter controle sobre suas informações na internet e fugir do algoritmo e todas suas pressões. E eu espero que esse espaço aqui seja tudo isso.
+
+---
+*Links úteis:*
+1. Digital Garden da Maggie Appleton: https://maggieappleton.com/*
+2. "O que não é um digital garden", por Eduardo Fernandes https://www.youtube.com/watch?v=k5wI5cH0SK0
+3. Matéria do MIT Technology Review sobre: https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/
