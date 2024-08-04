@@ -17,7 +17,7 @@ O vinil não é tão frágil quanto o CD, se bem armazenado, manuseado e reprodu
 Ser físico significa não ser imediato, como no digital. Temos que parar para escolher o disco a tocar; temos que trocar o lado do disco; não temos um botão de pular faixa. Tudo nos condiciona a parar e ouvir o álbum de cabo-a-rabo, slow-listening como chamam - um movimento contra a ansiedade de zapear por músicas. É sintomático o que aparece como "tendência Gen-Z", são manifestos contra o aceleracionismo digital, não é saudável nem para o ambiente que vivemos nem para nosso psicológico viver tão imerso de informação ou substituir a forma que nos relacionamos por um ambiente digital **programado**. 
 
 Entra a lógica de Jonathan Crary (24/7: Capitalismo tardio e os fins do sono), de que essa torrente informacional, em nossos corpos não treinados, faz parte um modelo de negócios destas plataformas:
->“O empobrecimento sensorial, a percepção reduzida ao hábito e as respostas programadas são resultados inevitáveis de nosso alinhamento aos inúmeros produtos, serviços e “amigos” que consumimos, administramos e acumulamos durante a vigília” (CRARY, 2016, p.114)
+>“O empobrecimento sensorial, a percepção reduzida ao hábito e as respostas programadas são resultados inevitáveis de nosso alinhamento aos inúmeros produtos, serviços e “amigos” que consumimos, administramos e acumulamos durante a vigília” (CRARY, 2016, p.114)
 
 O físico promove encontros não-programados, toda interação que realizamos no mundo não-material, realizamos com um objetivo definido sem desvios no caminho. Enquanto no mundo material, na loja de discos do meu bairro, eu posso encontrar um álbum que é uma sessão ininterrupta de Jorge Ben fazendo novas interpretações de seus maiores sucessos, que o Spotify nunca iria me recomendar (aliás, alguém sabe como faz pra ele parar de me recomendar Wilson Simonal cantando Alegria, Alegria ao final de toda playlist de MPB que eu esteja ouvindo?).
 
@@ -31,8 +31,6 @@ Confesso que esse tipo de vídeo aqui também me colocou no vício e me fez pens
 [Vinyl mix: Brasilidades dançantes - YouTube](https://www.youtube.com/watch?v=v-Y7CCijYkk)
 
 
----
-*Links e referências*
 [^1]: [Vinil supera CD e é mídia física que mais fatura no Brasil - Nexo Jornal](https://www.nexojornal.com.br/extra/2024/03/21/vendas-vinil-cds-musica-brasil#:~:text=As%20receitas%20com%20vendas%20de,quinta%2Dfeira%20(21).)
 [^2]: [Obrigado Ubisoft, por nos relembrar da importância da pirataria | Instituto Aaron Swartz (institutoasw.org)](https://institutoasw.org/2024/04/23/obrigado-ubisoft-por-nos-relembrar-da-importancia-da-pirataria/).
 [^3]: [Com aumento no preço dos streamings, locadoras voltam à moda em SP | Metrópoles (metropoles.com)](https://www.metropoles.com/sao-paulo/aumento-streamings-locadoras-voltam-sp)
