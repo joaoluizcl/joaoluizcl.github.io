@@ -3,13 +3,6 @@ title = 'Vinis'
 date = 2024-08-03T21:36:03-03:00
 tags = ["DigitalGarden", "Decrescimento"]
 draft = false
-cover =
-  image = "/imagesposts/lojadevinis.jpg"
-  # can also paste direct link from external site
-  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-  alt = "loja de vinis do bairro"
-  caption = ""
-  relative = false # To use relative path for cover image, used in hugo Page-bundles
 +++
 Sempre tive vontade de colecionar vinis. Acabou que colecionar vinis caiu naquele lugar meio dúbio da internet juntamente do "cinéfilo". Confesso que o que me impedia mais de mergulhar nesse mundo era na verdade o receio de ter que gastar horrores pra satisfazer mais um hobby. De supetão, numa promoção inesperada num supermercado, comprei uma vitrola por um preço irresistível. No dia seguinte, fui numa loja de discos do meu bairro, uma loja imprensada entre dois outro prédios comerciais, com discos até o teto num caos organizado. Comprei meus dois primeiros discos na seção de 5 reais - aqueles discos quase sem capas, que com muita sorte eles não vão pular nem uma faixa (aí, tive sorte).
 
