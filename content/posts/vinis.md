@@ -6,7 +6,7 @@ draft = false
 
 +++
 ![loja](/imagesposts/lojadevinis.jpg "A loja de vinis do bairro")
-Sempre tive vontade de colecionar vinis. Acabou que colecionar vinis caiu naquele lugar meio dúbio da internet juntamente do "cinéfilo". Confesso que o que me impedia mais de mergulhar nesse mundo era na verdade o receio de ter que gastar horrores pra satisfazer mais um hobby. De supetão, numa promoção inesperada num supermercado, comprei uma vitrola por um preço irresistível. No dia seguinte, fui numa loja de discos do meu bairro, uma loja imprensada entre dois outro prédios comerciais, com discos até o teto num caos organizado. Comprei meus dois primeiros discos na seção de 5 reais - aqueles discos quase sem capas, que com muita sorte eles não vão pular nem uma faixa (aí, tive sorte).
+Sempre tive vontade de colecionar vinis. Acabou que colecionar vinis caiu naquele lugar de julgamento dúbio da internet junto do "cinéfilo". Mas acho que o que me impedia mais de mergulhar nisso, era na verdade, o receio de ter que gastar horrores pra satisfazer mais um hobby. De supetão, numa promoção inesperada num supermercado, comprei uma vitrola. No dia seguinte, fui numa loja de discos do meu bairro, uma loja imprensada entre dois outros prédios comerciais, com discos até o teto - um caos organizado. Comprei meus dois primeiros discos na seção de 5 reais, aqueles discos quase sem capas, que com muita sorte eles não vão pular nem uma faixa (aí, tive sorte).
 
 Os discos em questão foram: a edição da "Nova História da Música Popular Brasileira" de Gilberto Gil e a edição "10 Anos Depois" de Jorge Ben.
 
@@ -25,9 +25,9 @@ O físico promove encontros não-programados, toda interação que realizamos no
 
 A outra grande qualidade do físico é que por natureza, ele é seu próprio registro de alterações que possa sofrer ou marcas do tempo. É resistência da matéria contra o mundo convertido em imagem. No não-material uma arqueologia é mais difícil. Um arquivo em seu Kindle pode sofrer a qualquer momento uma alteração em sua edição de maneira irrastreável ao usuário. Um e-book pode simplesmente ser descontinuado e sumir de sua biblioteca virtual, já que o que temos é uma licença restrita e não-exclusiva, não uma propriedade sobre um pertence - ver caso recente da Ubisoft com o jogo "The Crew". [^2]
 
-Plataformas, acima de tudo, vendem a ideia de que é preciso estar dentro delas para que algo tenha relevância, se tornou o nosso validador cultural. Por se basearem numa estratégia de negócios insustentável - operar no negativo até possuírem quase a totalidade da fatia de mercado - estamos entrando numa era de revisão dessas dinâmicas de consumo da mídia digital. Estamos passando a olhar com mais carinho pra aquele DVD empoeirado no fundo do armário e pensando "esse não tem na Netflix". O preço das assinaturas está aumentando por conteúdos de qualidade duvidosa que nem mais assistimos. Locadoras estão voltando [^3], lojas de discos estão aí, no futuro estaremos recebendo indicação de filmes do senhorzinho dono da locadora ao invés do algoritmo de gosto musical cafona.
+Plataformas, acima de tudo, vendem a ideia de que é preciso estar nelas para que algo tenha relevância, se tornou o nosso validador cultural. Por se basearem numa estratégia de negócios insustentável - operar no negativo até possuírem quase a totalidade da fatia de mercado - estamos entrando numa era de revisão dessas dinâmicas de consumo da mídia digital. Estamos passando a olhar com mais carinho pra aquele DVD empoeirado no fundo do armário e pensando "esse não tem na Netflix", o preço das assinaturas está aumentando por conteúdos de qualidade duvidosa que nem mais assistimos. Locadoras estão voltando [^3], lojas de discos estão aí, no futuro estaremos recebendo indicações de filmes do senhorzinho dono da locadora ao invés do algoritmo de gosto musical cafona.
 
-Confesso que esse tipo de vídeo aqui também me colocou no vício e me fez pensar nisso tudo:
+(Confesso que esse tipo de vídeo aqui também me colocou no vício e me fez pensar nisso tudo):
 [Vinyl mix: Brasilidades dançantes - YouTube](https://www.youtube.com/watch?v=v-Y7CCijYkk)
 
 
