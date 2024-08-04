@@ -11,7 +11,6 @@ cover:
   caption: ""
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 +++
-### Sobre vinis e tudo aquilo que ainda não se desmanchou no ar
 Sempre tive vontade de colecionar vinis. Acabou que colecionar vinis caiu naquele lugar meio dúbio da internet juntamente do "cinéfilo". Confesso que o que me impedia mais de mergulhar nesse mundo era na verdade o receio de ter que gastar horrores pra satisfazer mais um hobby. De supetão, numa promoção inesperada num supermercado, comprei uma vitrola por um preço irresistível. No dia seguinte, fui numa loja de discos do meu bairro, uma loja imprensada entre dois outro prédios comerciais, com discos até o teto num caos organizado. Comprei meus dois primeiros discos na seção de 5 reais - aqueles discos quase sem capas, que com muita sorte eles não vão pular nem uma faixa (aí, tive sorte).
 
 Os discos em questão foram: a edição da "Nova História da Música Popular Brasileira" de Gilberto Gil e a edição "10 Anos Depois" de Jorge Ben.
