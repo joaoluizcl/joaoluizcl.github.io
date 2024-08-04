@@ -1,8 +1,11 @@
 +++
-title = 'Vinis'
+title = 'Sobre vinis e tudo aquilo que ainda não se desmanchou no ar'
 date = 2024-08-03T21:36:03-03:00
 tags = ["DigitalGarden", "Decrescimento"]
 draft = false
+
+cover:
+    image: "/imagesposts/lojadevinis.jpg"
 +++
 Sempre tive vontade de colecionar vinis. Acabou que colecionar vinis caiu naquele lugar meio dúbio da internet juntamente do "cinéfilo". Confesso que o que me impedia mais de mergulhar nesse mundo era na verdade o receio de ter que gastar horrores pra satisfazer mais um hobby. De supetão, numa promoção inesperada num supermercado, comprei uma vitrola por um preço irresistível. No dia seguinte, fui numa loja de discos do meu bairro, uma loja imprensada entre dois outro prédios comerciais, com discos até o teto num caos organizado. Comprei meus dois primeiros discos na seção de 5 reais - aqueles discos quase sem capas, que com muita sorte eles não vão pular nem uma faixa (aí, tive sorte).
 
@@ -31,7 +34,7 @@ Confesso que esse tipo de vídeo aqui também me colocou no vício e me fez pens
 
 ---
 *Links e referências*
-[^1] 
+[^1]: 
 [Vinil supera CD e é mídia física que mais fatura no Brasil - Nexo Jornal](https://www.nexojornal.com.br/extra/2024/03/21/vendas-vinil-cds-musica-brasil#:~:text=As%20receitas%20com%20vendas%20de,quinta%2Dfeira%20(21).)
-[^2] [Obrigado Ubisoft, por nos relembrar da importância da pirataria | Instituto Aaron Swartz (institutoasw.org)](https://institutoasw.org/2024/04/23/obrigado-ubisoft-por-nos-relembrar-da-importancia-da-pirataria/).
-[^3] [Com aumento no preço dos streamings, locadoras voltam à moda em SP | Metrópoles (metropoles.com)](https://www.metropoles.com/sao-paulo/aumento-streamings-locadoras-voltam-sp)
+[^2]: [Obrigado Ubisoft, por nos relembrar da importância da pirataria | Instituto Aaron Swartz (institutoasw.org)](https://institutoasw.org/2024/04/23/obrigado-ubisoft-por-nos-relembrar-da-importancia-da-pirataria/).
+[^3]: [Com aumento no preço dos streamings, locadoras voltam à moda em SP | Metrópoles (metropoles.com)](https://www.metropoles.com/sao-paulo/aumento-streamings-locadoras-voltam-sp)
