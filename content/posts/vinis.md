@@ -18,7 +18,7 @@ Os discos em questão foram: a edição da "Nova História da Música Popular Br
 
 ![vinis](/imagesposts/vinisquecomprei.jpg)
 
-Segundo um relatório da Pró-Música, em 2023 às vendas de vinil cresceram em 136%, superando o faturamento de CD's e DVD's pela primeira vez em 35 anos - 87% desse faturamento da indústria fonográfica pertence aos streamings, 12% da reprodução pública de faixas, 0,6% de vinis, sobrando 0,4% para os demais. Enquanto nos Estados Unidos a fatia da mídia física é de 18% e na Ásia, 49%. [^1]
+Segundo um relatório da Pró-Música, em 2023, as vendas de vinil cresceram em 136%, superando o faturamento de CD's e DVD's pela primeira vez em 35 anos - 87% desse faturamento da indústria fonográfica pertence aos streamings, 12% da reprodução pública de faixas, 0,6% de vinis, sobrando 0,4% para os demais. Enquanto nos Estados Unidos a fatia da mídia física é de 18% e na Ásia, 49%. [^1]
 
 O vinil não é tão frágil quanto o CD, se bem armazenado, manuseado e reproduzido, é capaz de existir desde 1964 e estar em pleno funcionamento. O que antes seria um problema, suas dimensões maiores, todo o seu apelo de ser físico (e as consequências disso), agora, talvez, sejam seu maior diferencial.
 
