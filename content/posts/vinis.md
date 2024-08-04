@@ -5,7 +5,7 @@ tags = ["DigitalGarden", "Decrescimento"]
 draft = false
 
 +++
-![loja](/imagesposts/lojadevinis.jpg)
+![loja](/imagesposts/lojadevinis.jpg "A loja de vinis do bairro")
 Sempre tive vontade de colecionar vinis. Acabou que colecionar vinis caiu naquele lugar meio dúbio da internet juntamente do "cinéfilo". Confesso que o que me impedia mais de mergulhar nesse mundo era na verdade o receio de ter que gastar horrores pra satisfazer mais um hobby. De supetão, numa promoção inesperada num supermercado, comprei uma vitrola por um preço irresistível. No dia seguinte, fui numa loja de discos do meu bairro, uma loja imprensada entre dois outro prédios comerciais, com discos até o teto num caos organizado. Comprei meus dois primeiros discos na seção de 5 reais - aqueles discos quase sem capas, que com muita sorte eles não vão pular nem uma faixa (aí, tive sorte).
 
 Os discos em questão foram: a edição da "Nova História da Música Popular Brasileira" de Gilberto Gil e a edição "10 Anos Depois" de Jorge Ben.
@@ -21,7 +21,7 @@ Entra a lógica de Jonathan Crary (24/7: Capitalismo tardio e os fins do sono), 
 
 O físico promove encontros não-programados, toda interação que realizamos no mundo não-material, realizamos com um objetivo definido sem desvios no caminho. Enquanto no mundo material, na loja de discos do meu bairro, eu posso encontrar um álbum que é uma sessão ininterrupta de Jorge Ben fazendo novas interpretações de seus maiores sucessos, que o Spotify nunca iria me recomendar (aliás, alguém sabe como faz pra ele parar de me recomendar Wilson Simonal cantando Alegria, Alegria ao final de toda playlist de MPB que eu esteja ouvindo?).
 
-![vinis](/imagesposts/vinisquecomprei.jpg)
+![vinis](/imagesposts/vinisquecomprei.jpg "Os discos que comprei")
 
 A outra grande qualidade do físico é que por natureza, ele é seu próprio registro de alterações que possa sofrer ou marcas do tempo. É resistência da matéria contra o mundo convertido em imagem. No não-material uma arqueologia é mais difícil. Um arquivo em seu Kindle pode sofrer a qualquer momento uma alteração em sua edição de maneira irrastreável ao usuário. Um e-book pode simplesmente ser descontinuado e sumir de sua biblioteca virtual, já que o que temos é uma licença restrita e não-exclusiva, não uma propriedade sobre um pertence - ver caso recente da Ubisoft com o jogo "The Crew". [^2]
 
@@ -33,7 +33,6 @@ Confesso que esse tipo de vídeo aqui também me colocou no vício e me fez pens
 
 ---
 *Links e referências*
-[^1]: 
-[Vinil supera CD e é mídia física que mais fatura no Brasil - Nexo Jornal](https://www.nexojornal.com.br/extra/2024/03/21/vendas-vinil-cds-musica-brasil#:~:text=As%20receitas%20com%20vendas%20de,quinta%2Dfeira%20(21).)
+[^1]: [Vinil supera CD e é mídia física que mais fatura no Brasil - Nexo Jornal](https://www.nexojornal.com.br/extra/2024/03/21/vendas-vinil-cds-musica-brasil#:~:text=As%20receitas%20com%20vendas%20de,quinta%2Dfeira%20(21).)
 [^2]: [Obrigado Ubisoft, por nos relembrar da importância da pirataria | Instituto Aaron Swartz (institutoasw.org)](https://institutoasw.org/2024/04/23/obrigado-ubisoft-por-nos-relembrar-da-importancia-da-pirataria/).
 [^3]: [Com aumento no preço dos streamings, locadoras voltam à moda em SP | Metrópoles (metropoles.com)](https://www.metropoles.com/sao-paulo/aumento-streamings-locadoras-voltam-sp)
