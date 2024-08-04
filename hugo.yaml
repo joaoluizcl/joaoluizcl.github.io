@@ -51,7 +51,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: "João Luiz Carolino"
   DateFormat: "2 January, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: light # dark, light
   disableThemeToggle: true
 
   ShowReadingTime: false
