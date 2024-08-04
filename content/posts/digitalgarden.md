@@ -20,6 +20,7 @@ A [Maggie Appleton](https://maggieappleton.com/garden-history) define bem o que 
 
 ---
 *Links úteis:*
-1. Digital Garden da Maggie Appleton: https://maggieappleton.com/*
+1. Digital Garden da Maggie Appleton: https://maggieappleton.com/
 2. "O que não é um digital garden", por Eduardo Fernandes https://www.youtube.com/watch?v=k5wI5cH0SK0
 3. Matéria do MIT Technology Review sobre: https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/
+4. Quickstart no Hugo Themes e Github Pages, Cloud Native Trainer with Mike https://www.youtube.com/watch?v=zrmeOu8DYyw
