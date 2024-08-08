@@ -31,7 +31,7 @@ params:
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
   homeInfoParams:
-    Title: Meu portfólio e quintal digital
+    Title: "João Luiz Carolino | Portfólio e digital garden"
     Content: "Olá, venha arrastando uma cadeira. Sou um Arquiteto e Urbanista paraibano, interessado no (não-)colapso da modernidade, Jackson do Pandeiro, rádio, design, modelagem paramétrica, gafanhotos e rinocerontes, caranguejos, no campo ampliado da arquitetura, na burrice orgânica, e todos os avanços da jardinagem na expansão da consciência. Aqui você pode me acompanhar."
   socialIcons:
     - name: instagram
@@ -48,7 +48,7 @@ params:
     iconHeight: 26
 
   description: "Um jardim digital e portfólio de João Luiz Carolino"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: ["Blog", "Portfolio", "PaperMod", "Digital Garden"]
   author: "João Luiz Carolino"
   DateFormat: "2 January, 2006"
   defaultTheme: light # dark, light
