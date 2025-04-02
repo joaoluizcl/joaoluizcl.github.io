@@ -23,6 +23,10 @@ menu:
       url: /portfolio/
       weight: 40
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   assets:
