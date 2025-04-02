@@ -20,5 +20,5 @@ Esses são alguns destaques destas minhas empreitadas:
 [(opa)](https://www.sitedaopa.com.br/) 
 : Co-fundador e arquiteto na Oficina Paraibana de arquitetura
 
-[Meu TCC](https://repositorio.ufpb.br/jspui/handle/123456789/26546)
+[Meu TCC](/posts/tcc)
 : C2PC: Um ensaio projetual sobre um centro de cultural contemporânea no centro histórico de João Pessoa
