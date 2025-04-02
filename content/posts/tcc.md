@@ -4,7 +4,7 @@ date = 2025-04-02T15:18:41-03:00
 draft = false
 tags = ["Arquitetura", "Centro Histórico"]
 +++
-### C2PC - Ensaio projetual sobre um centro comunitário de cultura contemporânea no Centro Histórico de João Pessoa
+#### C2PC - Ensaio projetual sobre um centro comunitário de cultura contemporânea no Centro Histórico de João Pessoa
 ![tcc1](/imagesposts/tcc1.jpg "Perspectiva Externa Diurna")
 
 Com o tema de revitalização do Centro Histórico de João Pessoa em alta, com os programas estaduais e municipais como o ICMS Cultural e o Viva o Centro, já estava mais que na hora de fazer um post dedicado para o meu TCC. Meu trabalho de conclusão de curso se propôs a realizar um ensaio projetual a partir de uma discussão teórica de fundamentação e uma análise da cidade de João Pessoa sob a ótica do desenvolvimento de suas heterotopias. Ao final o projeto busca requalificar um conjunto de 4 casarões históricos no bairro do Varadouro de João Pessoa - PB, transformando-os em um Centro Cultural (apelidado de C2PC).
